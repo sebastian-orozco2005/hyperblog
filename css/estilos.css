@@ -15,3 +15,16 @@ body{
     margin: 0 auto;
     font-size: 20px;
 }
+.cabecera{
+    box-shadow: 0px 5px 30px 0px black;
+    background-color: #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+}
+.tagline{
+     font-weight: normal;
+     font-size: 0.8em;
+     padding: 0 0 0 1em;
+}
