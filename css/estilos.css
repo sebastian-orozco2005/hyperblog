@@ -9,10 +9,10 @@ body{
 }
 .container{
     width: 70%;
-    padding: 1em;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    margin-top: 2rem;
     font-size: 20px;
 }
 .cabecera{
@@ -27,4 +27,10 @@ body{
      font-weight: normal;
      font-size: 0.8em;
      padding: 0 0 0 1em;
+}
+.footer{
+    background-color: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
